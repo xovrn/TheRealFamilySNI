@@ -1,36 +1,33 @@
-vless://fad00171-5df8-442e-a208-54dea7f474f2@192.168.1.3:40443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&serviceName=donya-e-eqtesad.com.tasnimnews.com.alef.ir.en.mehrnews.com.entekhab.ir.tasnimnews.com.tehrantimes.com&sni=Humble-FigUREFnHk81kxjx.CarboNblaCkBmw.iR#SNI%20mobile%201
-vless://70703b2f-a472-4183-a440-3c6fe231dae4@192.168.1.3:40443?security=none&encryption=none&headerType=none&type=tcp#SNI%20mobile%202
-vless://56dbbf7c-ac36-45b9-9873-dff978ccb7b2@192.168.1.3:40443?security=&encryption=none&headerType=none&type=tcp#SNI%20mobile%203
-vless://7ea79a74-7289-4a01-987c-c6379ddb8dc5@192.168.1.3:40443?path=%2F%3Fed%3D2095&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=tik.nimhub.ir.&fp=firefox&type=ws&sni=tik.nimhub.ir.#SNI%20mobile%204
-vless://7ea79a74-7289-4a01-987c-c6379ddb8dc5@192.168.1.3:40443?path=%2F%3Fed%3D2095&security=tls&encryption=none&host=cpanel.nimhub.ir.&fp=chrome&type=ws&sni=cpanel.nimhub.ir.#SNI%20mobile%205
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@192.168.1.3:40443#SNI%20mobile%206
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@192.168.1.3:40443?encryption=none&type=ws&path=%2F&host=tt.andishehparenting.com#SNI%20mobile%207
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@192.168.1.3:40443#SNI%20mobile%208
-vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@192.168.1.3:40443?encryption=none&type=tcp&security=reality&headerType=none&sni=dfgh.falsemirrov.com&allowInsecure=1&pbk=FhYXVO-0BlCdga4MFczEVVC_clTA2UaIhWUiaWvYlR0&sid=fb2a682d44bdc70c&flow=xtls-rprx-vision#SNI%20mobile%209
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@192.168.1.3:40443?encryption=none&type=ws&path=%2F&host=tt.andishehparenting.com#SNI%20mobile%2010
-trojan://humanity@192.168.1.3:40443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=1#SNI%20mobile%2011
-vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@192.168.1.3:40443?encryption=none&type=tcp&security=reality&headerType=none&sni=yahoo.com&fp=chrome&allowInsecure=1&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&sid=4ae260#SNI%20mobile%2012
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@192.168.1.3:40443?encryption=none&type=tcp&security=reality&headerType=none&sni=fuck.rkn&fp=chrome&allowInsecure=1&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&flow=xts-rprx-vision#SNI%20mobile%2013
-vless://55f7d143-a594-4a91-b030-f227039f85ef@192.168.1.3:40443?encryption=none&type=tcp&security=tls&headerType=none&alpn=h2&allowInsecure=0#SNI%20mobile%2014
-trojan://humanity@192.168.1.3:40443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=1#SNI%20mobile%2015
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@192.168.1.3:40443?encryption=none&type=xhttp&security=tls&path=%2Fkavir&host=dey.lnmarketplace.net&mode=stream-one&extra=%7B%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%226%22%2C%22hKeepAlivePeriod%22%3A12%7D%7D&sni=dey.lnmarketplace.net&alpn=h2&fp=chrome&allowInsecure=0#SNI%20mobile%2016
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@192.168.1.3:40443#SNI%20mobile%2017
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@192.168.1.3:40443?encryption=none&type=ws&path=%2F&host=tt.andishehparenting.com#SNI%20mobile%2018
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@192.168.1.3:40443#SNI%20mobile%2019
-vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@192.168.1.3:40443?encryption=none&type=tcp&security=tls&headerType=none&sni=proxy.wastech.org&allowInsecure=1#SNI%20mobile%2020
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@192.168.1.3:40443#SNI%20mobile%2021
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@192.168.1.3:40443#SNI%20mobile%2022
-vless://4e783787-4de7-51de-ae32-01ce7203b838@192.168.1.3:40443?encryption=none&type=xhttp&security=tls&path=%2Fskkwkqknsjejejwj&host=omm.kotlet.org&mode=stream-one&sni=yahoo.com&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#SNI%20mobile%2023
-vless://394f6981-a782-4779-9a85-e6cf22935d93@192.168.1.3:40443?encryption=none&type=tcp&security=tls&headerType=none&sni=hkg1.fromblancwithlove.com&alpn=h2&allowInsecure=1#SNI%20mobile%2024
-vless://66a83901-6f32-416f-967b-c602fe47b49b@192.168.1.3:40443?encryption=none&type=ws&security=tls&path=%2Fwp-admin.php%3Fed%3D2052&host=neSzjzFesHab.gLobAl.ssl.FasTly.neT.&sni=speedtest.net&allowInsecure=1#SNI%20mobile%2025
-vless://a9bcb96e-0e2c-4550-a531-2b66b08d6076@192.168.1.3:40443?security=&encryption=none&headerType=&type=tcp#SNI%20mobile%2026
-vless://a9bcb96e-0e2c-4550-a531-2b66b08d6076@192.168.1.3:40443?security=&encryption=none&headerType=&type=tcp#SNI%20mobile%2027
-vless://e8775417-11ec-4b83-b6a3-6811c89e7f4c@192.168.1.3:40443?path=%2Fwss%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=d1z6kbvviybcdf.cloudfront.net&fp=chrome&type=ws&allowInsecure=1&sni=d1z6kbvviybcdf.cloudfront.net#SNI%20mobile%2028
-trojan://f58cd113-a3b1-319d-a993-331481731e82@192.168.1.3:40443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=1.lossyesterday.xyz#SNI%20mobile%2029
-vless://56dbbf7c-ac36-45b9-9873-dff978ccb7b2@192.168.1.3:40443?security=&encryption=none&headerType=none&type=tcp#SNI%20mobile%2030
-vless://12d75464-1ece-4827-9871-366aa98083a2@192.168.1.3:40443?encryption=none&security=none&type=tcp#SNI%20mobile%2031
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@192.168.1.3:40443?mode=stream-one&path=%2Fde&security=tls&encryption=none&host=de.lezzatzone.ir&fp=chrome&type=xhttp&sni=de.lezzatzone.ir#SNI%20mobile%2032
-vless://ecb34ed0-23f5-4a15-b469-28cfc13a438d@192.168.1.3:40443?encryption=none&fp=firefox&host=p1.sesrsa.com&path=%2F&security=tls&sni=sub.sesrsa.com&type=ws#SNI%20mobile%2033
-vless://12d75464-1ece-4827-9871-366aa98083a2@192.168.1.3:40443?encryption=none&security=none&type=tcp#SNI%20mobile%2034
-vless://0d37f3da-9328-4ee5-b3ba-143161f0f099@192.168.1.3:40443?path=%2Fwp-admin.php%3Fed%3D2052&security=tls&encryption=none&insecure=1&host=Api.nHl14.iR.&type=ws&allowInsecure=1&sni=speedtest.net#SNI%20mobile%2035
-vless://0d37f3da-9328-4ee5-b3ba-143161f0f099@192.168.1.3:40443?encryption=none&type=ws&security=tls&path=%2Fwp-admin.php%3Fed%3D2052&host=Api.nHl14.iR.&sni=speedtest.net&allowInsecure=1#SNI%20mobile%2036
+trojan://humanity@192.168.1.3:40443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#SNI موبایل
+vless://14c44521-e28f-4561-a12c-337d8cc44d87@192.168.1.3:40443?encryption=none&security=tls&sni=amphetamine.yhbj.store&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=amphetamine.yhbj.store&path=%2FTiMbErSaW&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D#SNI موبایل
+vless://cbf524f0-4d7c-4173-aafb-e9f0608b3192@192.168.1.3:40443?encryption=none&security=tls&sni=focalin.yhbj.store&alpn=h2%2Chttp%2F1.1%2Ch3&insecure=0&allowInsecure=0&type=xhttp&host=focalin.yhbj.store&path=%2FGoorbeh&mode=auto#SNI موبایل
+ss://YWVzLTEyOC1nY206YmQ2NDcxMmUtYjRlYS00Mjc2LTgxNWQtYmFmYmM5M2M4ZjQ1@192.168.1.3:40443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dwithered-voice-1609.dsf41ds654f1.workers.dev%3Bpath%3D%2Ftest%2Ffaq%3Fenc%5C%3Daes-128-gcm%3Btls%3Bmux%3D0#SNI موبایل
+vless://cbf524f0-4d7c-4173-aafb-e9f0608b3192@192.168.1.3:40443?encryption=none&security=tls&sni=focalin.yhbj.store&alpn=h2%2Chttp%2F1.1%2Ch3&insecure=0&allowInsecure=0&type=xhttp&host=focalin.yhbj.store&path=%2FGoorbeh&mode=auto#SNI موبایل
+trojan://humanity@192.168.1.3:40443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#SNI موبایل
+trojan://humanity@192.168.1.3:40443?security=tls&sni=www.multiplydose.com&insecure=0&allowInsecure=0&type=ws&host=www.multiplydose.com&path=%2Fassignment#SNI موبایل
+trojan://humanity@192.168.1.3:40443?security=tls&sni=www.creationlong.org&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#SNI موبایل
+trojan://humanity@192.168.1.3:40443?security=tls&sni=www.ignitelimit.com&insecure=1&allowInsecure=1&type=ws&host=www.ignitelimit.com&path=%2Fassignment#SNI موبایل
+trojan://humanity@192.168.1.3:40443?security=tls&sni=www.ignitelimit.com&fp=random&insecure=1&allowInsecure=1&type=ws&host=www.ignitelimit.com&path=%2Fassignment#SNI موبایل
+trojan://humanity@192.168.1.3:40443?security=tls&sni=www.ignitelimit.com&insecure=1&allowInsecure=1&type=ws&host=www.ignitelimit.com&path=%2Fassignment#SNI موبایل
+trojan://humanity@192.168.1.3:40443?security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#SNI موبایل
+trojan://humanity@192.168.1.3:40443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#SNI موبایل
+vless://2b851a5d-4bb0-4d3a-8d86-3aa2e0f68dd7@192.168.1.3:40443?encryption=none&security=tls&sni=server.clay.qzz.io&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=server.clay.qzz.io&path=%2F#SNI موبایل
+trojan://humanity@192.168.1.3:40443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#SNI موبایل
+trojan://humanity@192.168.1.3:40443?security=tls&sni=www.ignitelimit.com&fp=random&insecure=1&allowInsecure=1&type=ws&host=www.ignitelimit.com&path=%2Fassignment#SNI موبایل
+trojan://humanity@192.168.1.3:40443?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=%2Fassignment#SNI موبایل
+trojan://humanity@192.168.1.3:40443?security=tls&sni=www.creationlong.org&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=%2Fassignment#SNI موبایل
+trojan://humanity@192.168.1.3:40443?security=tls&sni=www.gossipglove.com&insecure=0&allowInsecure=0&type=ws&host=www.gossipglove.com&path=%2Fassignment#SNI موبایل
+trojan://humanity@192.168.1.3:40443?security=tls&sni=www.multiplydose.com&insecure=0&allowInsecure=0&type=ws&host=www.multiplydose.com&path=%2F%2Fassignment#SNI موبایل
+trojan://humanity@192.168.1.3:40443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#SNI موبایل
+trojan://humanity@192.168.1.3:40443?security=tls&sni=www.gossipglove.com&insecure=0&allowInsecure=0&type=ws&host=www.gossipglove.com&path=%2Fassignment#SNI موبایل
+trojan://humanity@192.168.1.3:40443?security=tls&sni=www.multiplydose.com&insecure=1&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#SNI موبایل
+trojan://humanity@192.168.1.3:40443?security=tls&insecure=1&allowInsecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#SNI موبایل
+trojan://humanity@192.168.1.3:40443?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=%2Fassignment#SNI موبایل
+trojan://humanity@192.168.1.3:40443?security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#SNI موبایل
+trojan://humanity@192.168.1.3:40443?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=%2Fassignment#SNI موبایل
+trojan://humanity@192.168.1.3:40443?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=%2Fassignment#SNI موبایل
+trojan://humanity@192.168.1.3:40443?security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#SNI موبایل
+trojan://humanity@192.168.1.3:40443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=%2Fassignment#SNI موبایل
+trojan://humanity@192.168.1.3:40443?security=tls&sni=www.calmlunch.com&insecure=1&allowInsecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#SNI موبایل
+vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@192.168.1.3:40443?encryption=none&security=tls&sni=cyylr.eu.cc&fp=chrome&alpn=http%2F1.1&insecure=1&allowInsecure=1&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=cyylr.eu.cc&path=%2Fsg-melbi#SNI موبایل
+ss://YWVzLTEyOC1nY206YmQ2NDcxMmUtYjRlYS00Mjc2LTgxNWQtYmFmYmM5M2M4ZjQ1@192.168.1.3:40443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dwithered-voice-1609.dsf41ds654f1.workers.dev%3Bpath%3D%2Fvod%2Fen%3Fenc%5C%3Daes-128-gcm%3Btls%3Bmux%3D0#SNI موبایل
